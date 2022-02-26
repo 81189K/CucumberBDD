@@ -5,13 +5,12 @@ import java.util.Map;
 
 import org.junit.Assert;
 
-import com.pages.AccountsPage;
-import com.pages.LoginPage;
-import com.qa.factory.DriverFactory;
-
+import driverFactory.DriverFactory;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
+import pageRepository.AccountsPage;
+import pageRepository.LoginPage;
 
 public class AccountsPageSteps {
 	

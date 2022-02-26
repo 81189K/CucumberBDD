@@ -1,4 +1,4 @@
-package com.pages;
+package pageRepository;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -2,12 +2,11 @@ package stepDefinitions;
 
 import org.junit.Assert;
 
-import com.pages.LoginPage;
-import com.qa.factory.DriverFactory;
-
+import driverFactory.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageRepository.LoginPage;
 
 public class LoginPageSteps {
 	

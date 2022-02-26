@@ -1,4 +1,4 @@
-package com.pages;
+package pageRepository;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
